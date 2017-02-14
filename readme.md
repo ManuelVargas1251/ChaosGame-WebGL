@@ -13,5 +13,4 @@ Write a WebGL program that implements Michael Barnsley's [Chaos Game](https://en
 Took me a while to figure out how to insert the new vertices into the buffer for them to be drawn. Also, I used normal js arrays to create and manipulate the data before I needed to convert it to a Float32 array to be read by webgl.
 
 ##Demo
-The implementation created a [Sierpinski Triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle) and can be viewed [here](#).
-[](screenshot.png "screenshot")
+The implementation created a [Sierpinski Triangle](https://en.wikipedia.org/wiki/Sierpinski_triangle) and can be viewed [here](http://manuelvargas.me/ChaosGame-WebGL/).
