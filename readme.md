@@ -1,6 +1,6 @@
 <!-- using shields.io for status buttons -->
 ![Programming Language](https://img.shields.io/badge/Language-Javascript-black.svg)
-![Version](https://img.shields.io/badge/Version-v1-blue.svg)
+![Grade](https://img.shields.io/badge/Grade-98-brightgreen.svg)
 
 
 #Chaos Game using WebGL
